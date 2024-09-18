@@ -1,0 +1,14 @@
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net8.0/OldPhonePadChallenge
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net8.0/OldPhonePadChallenge.deps.json
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net8.0/OldPhonePadChallenge.runtimeconfig.json
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net8.0/OldPhonePadChallenge.dll
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net8.0/OldPhonePadChallenge.pdb
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net8.0/OldPhonePadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net8.0/OldPhonePadChallenge.AssemblyInfoInputs.cache
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net8.0/OldPhonePadChallenge.AssemblyInfo.cs
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net8.0/OldPhonePadChallenge.csproj.CoreCompileInputs.cache
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net8.0/OldPhonePadChallenge.dll
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net8.0/refint/OldPhonePadChallenge.dll
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net8.0/OldPhonePadChallenge.pdb
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net8.0/OldPhonePadChallenge.genruntimeconfig.cache
+/Users/phyumonthant/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net8.0/ref/OldPhonePadChallenge.dll
